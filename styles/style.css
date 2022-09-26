@@ -215,10 +215,16 @@ footer{
     height: 239px;
     background: #0A0826;
 }
+.last{
+    padding-top:50px ;
+    color: white;
+    text-align: center;
+}
 .last-text{
+    width: 100%;
     text-align: center;
     color: white;
-    padding-top:50px ;
+    
 }
 .all-icons i{
     color: aliceblue;
